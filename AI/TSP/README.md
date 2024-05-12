@@ -1,4 +1,3 @@
-```markdown
 # TSP AI Project
 
 This project implements two algorithms for solving the Traveling Salesman Problem (TSP): the nearest neighbor method and the 2-opt method. It provides a graphical user interface (GUI) for visualizing and interacting with the TSP solutions.
@@ -26,10 +25,10 @@ This project implements two algorithms for solving the Traveling Salesman Proble
 
 ## Usage
 
-Run the `main.py` file to launch the GUI application:
+Run the `TSP.py` file to launch the GUI application:
 
 ```bash
-python main.py
+python TSP.py
 ```
 
 The GUI window will appear, allowing you to:
